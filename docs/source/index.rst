@@ -6,7 +6,7 @@ Tu veux te lancer sur le Cloud interministériel Nubo mais tu as peur de faire t
 Cette formation, sous forme d'une *aventure ludique*, est la parfaite opportunité pour apprendre à déployer de A à Z une application sur Nubo. 
 Elle se divise en deux parties:
 
-1. Introduction au bases de Nubo afin de déployer une simple application Wordpress.
+1. Introduction au bases de Nubo afin de déployer une simple application.
 2. Mise en place de fonctionnalités avancées afin de produire une application complète et robuste
 
 .. note::
@@ -22,6 +22,7 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
    :caption: 🚀 Getting Started
 
    Accès à l'environnement Nubo <environnement>
+   Configuration de l'environnement Nubo <configuration_nubo>
    Histoire d'un naufrage <storytelling>
 
 .. toctree::
