@@ -24,7 +24,20 @@ footer {
     color: #222222;
   }
 
+
+/* header */
+.wy-nav-content {
+  position: relative;
+  background-image: url("cloud_sun.svg");
+  background-position: 75% 10%;
+  background-repeat: no-repeat;
+  background-size: 75%;
+  min-height: 100vh;
+}
+
+
 /* Sidebar header (and topbar for mobile) */
 .wy-side-nav-search, .wy-nav-top {
     background: #ffffff;
 }
+
