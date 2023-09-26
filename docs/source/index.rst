@@ -35,7 +35,16 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
    Encore plus de constructions <quete_modularite>
    Des outils pour se faciliter la vie <quete_automatisation>
-   Prendre de la hauteur ! <quete_observabilite>
+   Prendre de la hauteur <quete_observabilite>
    Un abri paré au pire des scénarios <quete_disponibilite>
 
+.. toctree::
+   :caption: 📖 Annexes
 
+   Portail Horizon <annexe_horizon>
+   Nova : service compute <annexe_nova>
+   Neutron : service réseau <annexe_neutron>
+   Glance : service images de VMs <annexe_glance>
+   Swift : service stockage objet <annexe_swift>
+   Cinder : service stockage bloc <annexe_cinder>
+   Heat : service de templating <annexe_heat>
