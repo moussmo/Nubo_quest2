@@ -1,2 +1,2 @@
-HI
+Configuration de l'environnement Nubo
 ------------
