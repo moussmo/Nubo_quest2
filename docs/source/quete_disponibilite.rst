@@ -1,11 +1,11 @@
 Un abri paré au pire des scénarios
 ===================================
 
-Setup de l'infrastructure 
+Première étape
 ------------
 
-Setup du réseau
+Deuxième étape
 ------------
 
-Déploiement de l'application
+Troisième étape
 ------------

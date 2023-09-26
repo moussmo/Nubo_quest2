@@ -19,7 +19,7 @@ Prends le temps de lire la section :doc:`Accès à l'environnement Nubo` afin de
 Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
 
 .. toctree::
-   :caption: 🚀 Getting Started
+   :caption: 🚀 Avant de démarrer
 
    Accès à l'environnement Nubo <environnement>
    Configuration de l'environnement Nubo <configuration_nubo>

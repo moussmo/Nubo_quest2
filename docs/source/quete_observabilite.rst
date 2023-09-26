@@ -1,11 +1,11 @@
-Prendre de la hauteur !
+Prendre de la hauteur
 ===================================
 
-Setup de l'infrastructure 
+Première étape
 ------------
 
-Setup du réseau
+Deuxième étape
 ------------
 
-Déploiement de l'application
+Troisième étape
 ------------
