@@ -23,20 +23,20 @@ Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu so
 
    Accès à l'environnement Nubo <environnement>
    Configuration de l'environnement Nubo <configuration_nubo>
-   Histoire d'un naufrage <storytelling>
 
 .. toctree::
    :caption: 🏝️ Quête principale
 
+   Histoire d'un naufrage <storytelling>
    Construction d'un abri de base <quete_socle>
 
 .. toctree::
    :caption: 🔨 Quêtes secondaires
 
    Encore plus de constructions <quete_modularite>
+   Un abri paré au pire des scénarios <quete_disponibilite>
    Des outils pour se faciliter la vie <quete_automatisation>
    Prendre de la hauteur <quete_observabilite>
-   Un abri paré au pire des scénarios <quete_disponibilite>
 
 .. toctree::
    :caption: 📖 Annexes

@@ -1,8 +1,6 @@
 Construction de l'abri de base
 ===================================
 
-
-
 Vous voilà naufragé sur l'île déserte ! Il va très  prochainement faire nuit, qui sait quels prédateurs rôdent lorsque les ténèbres s'installent? 
 Votre instinct vous pousse à vous construire un abri dans lequel vous allez pouvoir vous réfugier. Vous n'êtes pas expert en la matière, mais vous êtes convaincu que cela ne doit pas être si compliqué ça, et vous avez bien raison !
 
@@ -11,14 +9,12 @@ Première étape : Identifier un emplacement et délimiter le territoire
 Comme n'importe quelle structure que l'on construit, on a besoin d'un emplacement. Celui-ci représente la position et les limites de votre territoire sur l'île. Il est à vous et à vous seul, et toute pénétration non-admise d'un tiers dans cette zone sera considérée hostile.
 
 Votre première tâche sera de repérer, borner, et marquer une zone que vous jugerez adaptée au refuge.
-Après quelques heures de marches, vous décidez que le centre de l'île est idéal pour votre installation : un terrain plat, désert, a priori inhabité par les animaux sauvages, et surtout proche d'un point d'eau. Parfait !
-
+Après quelques heures d'exploration, vous décidez que le centre de l'île est idéal pour votre installation : un terrain plat, désert, a priori inhabité par les animaux sauvages, et surtout proche d'un point d'eau. Parfait !
 
 .. figure:: _static/territory.jpeg
   :width: 400
   :align: center
   :alt: Tracer les limites de son territoire
-
 
 .. note:: 
     **Que faire sur Nubo ?**
@@ -30,7 +26,7 @@ Après quelques heures de marches, vous décidez que le centre de l'île est id�
     * Le réseau privé de publication : c'est l'emplacement réseau où on déploie les instances hébergeant notre application.
     * Le réseau privé d'administration : dont les instances, appelées Bastion, servent de point de connexion privée aux instances du réseau de publication à des fins d'administration. C'est un réseau dont l'accès est restreint à un personnel spécifique.
 
-    **A votre tour de jouer :**
+    **À votre tour de jouer :**
 
     #. Créer deux réseau privés et les nommer adéquatement.
 
