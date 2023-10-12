@@ -1,4 +1,4 @@
-Bienvenue au Pas-à-Pas Nubo!
+Bienvenue à la formation Nubo!
 ===================================
 
 Tu veux te lancer sur le Cloud interministériel Nubo mais tu as peur de faire tes premiers pas tout seul ? Ce tutoriel est fait pour toi ! 
@@ -15,14 +15,13 @@ Elle se divise en deux parties:
 .. note::
    Si tu te sens bloqué sur une étape pour une raison ou une autre, n'oublie pas que tu as toujours accès à la solution.
 
-Prends le temps de lire la section :doc:`Accès à l'environnement Nubo` afin de t'accomoder avec les différents moyens de connexion à Nubo. 
-Tu peux commencer la formation en cliquant sur le bouton ci-dessous ou, si tu souhaites la reprendre à partir du point où tu t'es arrêté, en naviguant dans la liste des sections ci-dessous.
+Prends le temps de lire la section :ref:`environnement` afin de t'accomoder avec les différents moyens de connexion à Nubo. 
 
 .. toctree::
    :caption: 🚀 Avant de démarrer
 
-   Accès à l'environnement Nubo <environnement>
-   Configuration de l'environnement Nubo <configuration_nubo>
+   Prérequis <prerequis>
+   Comment avoir accès à Nubo ? <environnement>
 
 .. toctree::
    :caption: 🏝️ Quête principale

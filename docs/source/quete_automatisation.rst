@@ -1,3 +1,6 @@
+.. _quete_automatisation:
+
+
 Des outils pour se faciliter la vie
 ===================================
 
