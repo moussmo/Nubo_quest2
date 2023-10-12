@@ -28,7 +28,6 @@ Cette structure de stockage sera collée à l'espace de nuit, et communiquera di
     
     **À votre tour de jouer :**
     
-Deuxième étape : une entrée à notre abri 
 
 Deuxième étape : allumer un feu de camp
 ------------
