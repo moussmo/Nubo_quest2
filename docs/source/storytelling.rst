@@ -1,5 +1,5 @@
 Histoire d'un naufrage
-=====
+==========
 
 En 2022, , un aventurier arriva sur une petite île déserte du pacifique sur son bâteau avec comme objectif de déceler tous les mystères de celle-ci, ce qu'il y découvra finalement ne fut pas de nouvelles espèces de champignons ni de trésor caché, mais un naufragé qui se réfugiait dans son formidable abri.
 Cet abri était à la fois le fruit d'un travail rigoureux et le symbole de la grande ingéniosité de son constructeur, on y trouvait :

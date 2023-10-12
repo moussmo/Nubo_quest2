@@ -1,4 +1,4 @@
-Bienvenue à la formation Nubo!
+Bienvenue à Nuboquest !
 ===================================
 
 Tu veux te lancer sur le Cloud interministériel Nubo mais tu as peur de faire tes premiers pas tout seul ? Ce tutoriel est fait pour toi ! 
